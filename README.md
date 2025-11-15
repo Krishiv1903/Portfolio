@@ -23,6 +23,7 @@ This project showcases my work, skills, and projects in a clean and responsive d
 ---
 
 ## 📂 Project Structure  
+```
 Portfolio/
 │── index.html # Main HTML file
 │── style.css # CSS styling file
@@ -30,6 +31,7 @@ Portfolio/
 │── /images # Images and icons used in portfolio
 │── README.md # Project documentation
 ---
+```
 
 ## 🚀 Getting Started  
 1. Clone the repository  
